@@ -1,0 +1,29 @@
+{
+  "name": "flowjs",
+  "version": "0.1.0",
+  "description": "A tiny library to display objects and simulate simple 2D physics (Flow.js)",
+  "keywords": [
+    "physics",
+    "flow",
+    "simulation",
+    "canvas"
+  ],
+  "homepage": "https://github.com/omidomidvari/flowjs#readme",
+  "bugs": {
+    "url": "https://github.com/omidomidvari/flowjs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omidomidvari/flowjs.git"
+  },
+  "license": "MIT",
+  "author": "homemovie",
+  "type": "commonjs",
+  "main": "flow.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./test/index.test.js"
+  }
+}
